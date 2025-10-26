@@ -3,9 +3,9 @@
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre:hernandez martinez maria jose
+- Matrícula: zS25025287
+- Fecha:26-oct-2025
 
 ## 🎯 Objetivos
 
@@ -24,3 +24,4 @@ git commit -m <descripcion-del-commit>
 
 git push origin <rama>
 ```
+
